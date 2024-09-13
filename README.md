@@ -24,7 +24,7 @@ I'm a second-year **Computer Engineering** student at **McMaster University**, p
 - Improving my skills in **full-stack development**.
 
 ## 📫 How to reach me:
-- LinkedIn: [Your LinkedIn](#)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/peter-y-1a98b7244)
 - Email: peter12tyo@gmail.com
 
 <!---
