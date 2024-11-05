@@ -4,7 +4,7 @@ I'm a second-year **Computer Engineering** student at **McMaster University**, p
 
 
 ## 🚀 Skills & Interests:
-- **Languages:** JavaScript, HTML, CSS, Python, Java, JavaFX
+- **Languages:** JavaScript, HTML, CSS, Python, Java, JavaFX, C/C++
 - **Web Development:** Built basic websites and web apps using HTML, CSS, JavaScript.
 - **AI & ML:** AWS DeepRacer, exploring machine learning and AI applications.
 - **Robotics:** Interested in breaking into the robotics industry and applying AI techniques.
