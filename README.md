@@ -1,33 +1,72 @@
-# Hi there 👋, I'm Peter Yakubu
+# Hi 👋, I'm Peter Yakubu
 
-I'm a second-year **Computer Engineering** student at **McMaster University**, passionate about the world of computing. I am currently learning web development using **The Odin Project** and always eager to expand my knowledge and skills.
+I'm a **Computer Engineering student at McMaster University** interested in **computer architecture, digital hardware, RTL design, and verification**.
 
+I previously worked as a **SoC Performance Verification Intern at AMD**, where I worked on pre-silicon performance verification for next-generation AI GPUs, using emulation, automation, and data analysis to investigate performance and improve verification infrastructure.
 
-## 🚀 Skills & Interests:
-- **Languages:** JavaScript, HTML, CSS, Python, Java, JavaFX, C/C++
-- **Web Development:** Built basic websites and web apps using HTML, CSS, JavaScript.
-- **AI & ML:** AWS DeepRacer, exploring machine learning and AI applications.
-- **Robotics:** Interested in breaking into the robotics industry and applying AI techniques.
-- **Tools & Frameworks:** Git, GitHub
+## 🔧 Technical Interests
 
-## 💡 Projects:
-- [Book Library Inventory App](https://petery123.github.io/library/) - A simple web app that displays book titles and helps manage a library inventory.
-- [Asteroid Game]() - A JavaFX game where the user controls a ship to shoot asteroids.
-- [Admin Dashboard](https://petery123.github.io/admin-dashboard/) - Used CSS to desing a basic Admin Dashboard.
+- **Computer Architecture & Digital Design**
+- **RTL Design & Verification**
+- **SystemVerilog & UVM**
+- **SoC / GPU Performance Verification**
+- **Embedded Systems**
+- **Hardware–Software Interaction**
 
-## 🎓 Currently:
-- Second-year **Computer Engineering** student.
-- Looking for opportunities to work on my skills solve real world problems
+## 💻 Languages & Tools
 
-## 🌱 Always learning:
-- Diving deeper into **AI & ML**.
-- Improving my skills in **full-stack development**.
+**Languages:**  
+SystemVerilog, C, C++, Python, Perl, Java, JavaScript
 
-## 📫 How to reach me:
-- LinkedIn: [link](https://www.linkedin.com/in/peter-y-1a98b7244/)
-- Email: peter12tyo@gmail.com
+**Hardware & Verification:**  
+SystemVerilog, UVM, Verilator, RTL simulation, assertions
 
-<!---
-petery123/petery123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tools:**  
+Git, GitHub, Linux, Bash, Siemens Veloce, LSF
+
+## 🚀 Projects
+
+### RISC-V Processor & Verification
+
+Building a minimal **RV32I processor** in SystemVerilog while developing a verification environment around each component.
+
+- Designed and verified components including an **ALU and register file**
+- Developed directed and randomized SystemVerilog testbenches
+- Used **SystemVerilog Assertions (SVA)** to verify architectural properties
+- Simulated and tested RTL using **Verilator**
+
+### Embedded Systems
+
+Developed embedded systems using the **MSP432**, integrating peripherals such as ADCs, UART, I²C, GPIO, stepper motors, and time-of-flight sensors.
+
+### EcoCAR
+
+Contributed to engineering projects involving embedded systems and vehicle technology as part of McMaster's EcoCAR team.
+
+## 🧠 Experience
+
+### AMD — SoC Performance Verification Intern
+
+Worked on pre-silicon performance verification for next-generation AMD AI GPU hardware.
+
+- Ran and debugged performance workloads on hardware emulation platforms
+- Built automation and analysis utilities using **Python, Perl, Bash, and Linux**
+- Improved verification infrastructure and performance-analysis workflows
+- Received the **Q2 2026 Spotlight Award** for contributions beyond regular project responsibilities
+
+## 🌱 Currently
+
+I'm continuing to deepen my knowledge of:
+
+- Computer architecture
+- SystemVerilog and UVM
+- RTL verification
+- RISC-V
+- ASIC / SoC design and verification
+
+I'm especially interested in opportunities where I can work close to the hardware and understand how modern processors and accelerators are designed, verified, and optimized.
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/peter-y-1a98b7244/)
+- [Email](mailto:peter12tyo@gmail.com)
